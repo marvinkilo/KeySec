@@ -2,11 +2,11 @@
 module.exports =
     config = {
         typingDNA: {
-            apiKey: 'b04069d51b0a90d0b8702a43870804fd',
-            apiSecret: '4da5c1bf4ef0e0e4e5bbcc7d08affc66',
-            apiServer: 'api.typingdna.com',
+            apiKey: 'add your api key here',
+            apiSecret: 'add your api secret here',
+            apiServer: 'add api server here',
         },
-        someprivatekey: '@2mws9~&%?+RN',
-        sessionSecret: 'asdkjkfh63ryfsdgcqg87w4rf7gasydi',
+        someprivatekey: 'add your private key here',
+        sessionSecret: 'add your session secret here',
         sametext: `We need you to type this text in order to make sure it's you.`,
     };
