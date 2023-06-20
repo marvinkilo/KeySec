@@ -11,11 +11,7 @@ Installation guide for the project:
 
 To run the project:
 
-- Run npm start in sub folders 
-                        1. anytext
-                        2. login
-                        3. sametext
-in NodeJs folder and React_Auth0 folder
+- Run npm start in sub folders anytext,login and sametext in NodeJs folder and React_Auth0 folder
 
 
 
